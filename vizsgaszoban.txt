@@ -1,0 +1,14 @@
+vizsga szóbeli 
+
+LAB:
+
+A LAB hálózat egy elkülönített tesztkörnyezet, amely lehetővé teszi a hálózati beállítások és szolgáltatások biztonságos kipróbálását. A központi switchhez munkaállomások, szerver és IoT eszköz is csatlakozik. A router biztosítja a kapcsolatot a központi hálózattal és az internettel. Ez a felépítés lehetővé teszi a valós vállalati környezet szimulációját.
+
+Felho
+A fehő a hálózat központi routere, amely összeköti a különböző hálózati szegmenseket. Feladata a forgalom irányítása, az alhálózatok közötti kapcsolat biztosítása és a WAN hálózat kezelése.
+
+BOLT
+A bolt hálózat egy kisvállalati környezetet modellez, ahol vezetékes és vezeték nélküli eszközök is működnek. A router biztosítja a kapcsolatot a központi hálózattal, a switch a vezetékes eszközöket, az access point pedig a WiFi klienseket szolgálja ki.
+
+IRODA
+Az iroda hálózat egy vállalati környezetet modellez, amelyben több munkaállomás, WiFi eszköz, szerver és dedikált tűzfal is található. A hálózat szegmentált felépítésű, VLAN-okkal és központi switch-ekkel. Az ASA tűzfal gondoskodik a biztonságról, míg a routerek a külső hálózat felé biztosítják a kapcsolatot.
